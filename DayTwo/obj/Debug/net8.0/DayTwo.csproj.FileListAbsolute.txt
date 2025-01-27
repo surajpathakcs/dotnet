@@ -1,0 +1,15 @@
+D:\code\net\DayTwo\obj\Debug\net8.0\DayTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\net\DayTwo\obj\Debug\net8.0\DayTwo.AssemblyInfoInputs.cache
+D:\code\net\DayTwo\obj\Debug\net8.0\DayTwo.AssemblyInfo.cs
+D:\code\net\DayTwo\obj\Debug\net8.0\DayTwo.csproj.CoreCompileInputs.cache
+D:\code\net\DayTwo\obj\Debug\net8.0\DayTwo.sourcelink.json
+D:\code\net\DayTwo\bin\Debug\net8.0\DayTwo.exe
+D:\code\net\DayTwo\bin\Debug\net8.0\DayTwo.deps.json
+D:\code\net\DayTwo\bin\Debug\net8.0\DayTwo.runtimeconfig.json
+D:\code\net\DayTwo\bin\Debug\net8.0\DayTwo.dll
+D:\code\net\DayTwo\bin\Debug\net8.0\DayTwo.pdb
+D:\code\net\DayTwo\obj\Debug\net8.0\DayTwo.dll
+D:\code\net\DayTwo\obj\Debug\net8.0\refint\DayTwo.dll
+D:\code\net\DayTwo\obj\Debug\net8.0\DayTwo.pdb
+D:\code\net\DayTwo\obj\Debug\net8.0\DayTwo.genruntimeconfig.cache
+D:\code\net\DayTwo\obj\Debug\net8.0\ref\DayTwo.dll
