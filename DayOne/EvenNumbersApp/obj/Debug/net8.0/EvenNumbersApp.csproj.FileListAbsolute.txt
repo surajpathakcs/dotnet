@@ -1,0 +1,14 @@
+D:\code\net\DayOne\EvenNumbersApp\obj\Debug\net8.0\EvenNumbersApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\net\DayOne\EvenNumbersApp\obj\Debug\net8.0\EvenNumbersApp.AssemblyInfoInputs.cache
+D:\code\net\DayOne\EvenNumbersApp\obj\Debug\net8.0\EvenNumbersApp.AssemblyInfo.cs
+D:\code\net\DayOne\EvenNumbersApp\obj\Debug\net8.0\EvenNumbersApp.csproj.CoreCompileInputs.cache
+D:\code\net\DayOne\EvenNumbersApp\bin\Debug\net8.0\EvenNumbersApp.exe
+D:\code\net\DayOne\EvenNumbersApp\bin\Debug\net8.0\EvenNumbersApp.deps.json
+D:\code\net\DayOne\EvenNumbersApp\bin\Debug\net8.0\EvenNumbersApp.runtimeconfig.json
+D:\code\net\DayOne\EvenNumbersApp\bin\Debug\net8.0\EvenNumbersApp.dll
+D:\code\net\DayOne\EvenNumbersApp\bin\Debug\net8.0\EvenNumbersApp.pdb
+D:\code\net\DayOne\EvenNumbersApp\obj\Debug\net8.0\EvenNumbersApp.dll
+D:\code\net\DayOne\EvenNumbersApp\obj\Debug\net8.0\refint\EvenNumbersApp.dll
+D:\code\net\DayOne\EvenNumbersApp\obj\Debug\net8.0\EvenNumbersApp.pdb
+D:\code\net\DayOne\EvenNumbersApp\obj\Debug\net8.0\EvenNumbersApp.genruntimeconfig.cache
+D:\code\net\DayOne\EvenNumbersApp\obj\Debug\net8.0\ref\EvenNumbersApp.dll
