@@ -1,0 +1,15 @@
+D:\code\net\DayFive\obj\Debug\net8.0\DayFive.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\net\DayFive\obj\Debug\net8.0\DayFive.AssemblyInfoInputs.cache
+D:\code\net\DayFive\obj\Debug\net8.0\DayFive.AssemblyInfo.cs
+D:\code\net\DayFive\obj\Debug\net8.0\DayFive.csproj.CoreCompileInputs.cache
+D:\code\net\DayFive\obj\Debug\net8.0\DayFive.sourcelink.json
+D:\code\net\DayFive\bin\Debug\net8.0\DayFive.exe
+D:\code\net\DayFive\bin\Debug\net8.0\DayFive.deps.json
+D:\code\net\DayFive\bin\Debug\net8.0\DayFive.runtimeconfig.json
+D:\code\net\DayFive\bin\Debug\net8.0\DayFive.dll
+D:\code\net\DayFive\bin\Debug\net8.0\DayFive.pdb
+D:\code\net\DayFive\obj\Debug\net8.0\DayFive.dll
+D:\code\net\DayFive\obj\Debug\net8.0\refint\DayFive.dll
+D:\code\net\DayFive\obj\Debug\net8.0\DayFive.pdb
+D:\code\net\DayFive\obj\Debug\net8.0\DayFive.genruntimeconfig.cache
+D:\code\net\DayFive\obj\Debug\net8.0\ref\DayFive.dll

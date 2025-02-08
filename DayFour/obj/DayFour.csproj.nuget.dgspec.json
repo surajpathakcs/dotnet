@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\net\\dayFour\\DayFour.csproj": {}
+    "D:\\code\\net\\DayFour\\DayFour.csproj": {}
   },
   "projects": {
-    "D:\\code\\net\\dayFour\\DayFour.csproj": {
+    "D:\\code\\net\\DayFour\\DayFour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\net\\dayFour\\DayFour.csproj",
+        "projectUniqueName": "D:\\code\\net\\DayFour\\DayFour.csproj",
         "projectName": "DayFour",
-        "projectPath": "D:\\code\\net\\dayFour\\DayFour.csproj",
+        "projectPath": "D:\\code\\net\\DayFour\\DayFour.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\net\\dayFour\\obj\\",
+        "outputPath": "D:\\code\\net\\DayFour\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
