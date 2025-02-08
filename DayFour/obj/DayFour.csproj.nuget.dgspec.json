@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\net\\DayOne\\3qns\\EvenNumbersApp.csproj": {}
+    "D:\\code\\net\\dayFour\\DayFour.csproj": {}
   },
   "projects": {
-    "D:\\code\\net\\DayOne\\3qns\\EvenNumbersApp.csproj": {
+    "D:\\code\\net\\dayFour\\DayFour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\net\\DayOne\\3qns\\EvenNumbersApp.csproj",
-        "projectName": "EvenNumbersApp",
-        "projectPath": "D:\\code\\net\\DayOne\\3qns\\EvenNumbersApp.csproj",
+        "projectUniqueName": "D:\\code\\net\\dayFour\\DayFour.csproj",
+        "projectName": "DayFour",
+        "projectPath": "D:\\code\\net\\dayFour\\DayFour.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\net\\DayOne\\3qns\\obj\\",
+        "outputPath": "D:\\code\\net\\dayFour\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",

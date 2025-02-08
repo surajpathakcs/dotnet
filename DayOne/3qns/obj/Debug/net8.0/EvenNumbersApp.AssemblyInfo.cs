@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvenNumbersApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8aa326f338293bb5676deef2a2b7f00f99b2b74")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvenNumbersApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvenNumbersApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+D:\code\net\DayFour\obj\Debug\net8.0\DayFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\net\DayFour\obj\Debug\net8.0\DayFour.AssemblyInfoInputs.cache
+D:\code\net\DayFour\obj\Debug\net8.0\DayFour.AssemblyInfo.cs
+D:\code\net\DayFour\obj\Debug\net8.0\DayFour.csproj.CoreCompileInputs.cache
+D:\code\net\DayFour\obj\Debug\net8.0\DayFour.sourcelink.json
+D:\code\net\DayFour\bin\Debug\net8.0\DayFour.exe
+D:\code\net\DayFour\bin\Debug\net8.0\DayFour.deps.json
+D:\code\net\DayFour\bin\Debug\net8.0\DayFour.runtimeconfig.json
+D:\code\net\DayFour\bin\Debug\net8.0\DayFour.dll
+D:\code\net\DayFour\bin\Debug\net8.0\DayFour.pdb
+D:\code\net\DayFour\obj\Debug\net8.0\DayFour.dll
+D:\code\net\DayFour\obj\Debug\net8.0\refint\DayFour.dll
+D:\code\net\DayFour\obj\Debug\net8.0\DayFour.pdb
+D:\code\net\DayFour\obj\Debug\net8.0\DayFour.genruntimeconfig.cache
+D:\code\net\DayFour\obj\Debug\net8.0\ref\DayFour.dll
