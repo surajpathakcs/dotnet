@@ -1,0 +1,15 @@
+D:\code\net\DaySix\obj\Debug\net8.0\DaySix.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\net\DaySix\obj\Debug\net8.0\DaySix.AssemblyInfoInputs.cache
+D:\code\net\DaySix\obj\Debug\net8.0\DaySix.AssemblyInfo.cs
+D:\code\net\DaySix\obj\Debug\net8.0\DaySix.csproj.CoreCompileInputs.cache
+D:\code\net\DaySix\obj\Debug\net8.0\DaySix.sourcelink.json
+D:\code\net\DaySix\bin\Debug\net8.0\DaySix.exe
+D:\code\net\DaySix\bin\Debug\net8.0\DaySix.deps.json
+D:\code\net\DaySix\bin\Debug\net8.0\DaySix.runtimeconfig.json
+D:\code\net\DaySix\bin\Debug\net8.0\DaySix.dll
+D:\code\net\DaySix\bin\Debug\net8.0\DaySix.pdb
+D:\code\net\DaySix\obj\Debug\net8.0\DaySix.dll
+D:\code\net\DaySix\obj\Debug\net8.0\refint\DaySix.dll
+D:\code\net\DaySix\obj\Debug\net8.0\DaySix.pdb
+D:\code\net\DaySix\obj\Debug\net8.0\DaySix.genruntimeconfig.cache
+D:\code\net\DaySix\obj\Debug\net8.0\ref\DaySix.dll
